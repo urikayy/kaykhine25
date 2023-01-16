@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: rgb(102, 14, 29);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 18px;
+}
+nav{
+    background-color: rgb(218, 147, 210);
+    height: 40px;
+    padding-top: 15px;
+}
+div td{
+    text-align: center;
+}
+body{
+    background-color: rgb(230, 226, 197);
+}
+th{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(173, 20, 104);
+}
+td{
+    color: rgb(20, 137, 7);
+}
+
